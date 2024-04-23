@@ -1,0 +1,109 @@
+$grp GenericEntity : "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et" {
+ {
+  coords 7693.862 14.83 8117.38
+ }
+ {
+  coords 7693.945 14.83 8117.384
+  angleY 116.803
+ }
+ {
+  coords 7693.989 14.83 8117.234
+  angleY -93.752
+ }
+ {
+  coords 7694.093 14.83 8117.318
+  angleY 46.799
+ }
+}
+$grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
+ {
+  components {
+   SCR_BaseInteractiveLightComponent "{587E9C1D47ACAF0D}" {
+    m_eInitialLightState LIT
+   }
+  }
+  coords 7624.591 14.578 8077.626
+  angleY -73.61
+ }
+ {
+  components {
+   SCR_BaseInteractiveLightComponent "{587E9C1D47ACAF0D}" {
+    m_eInitialLightState LIT
+   }
+  }
+  coords 7656.349 13.192 8048.302
+  angleY -7.791
+ }
+ {
+  components {
+   SCR_BaseInteractiveLightComponent "{587E9C1D47ACAF0D}" {
+    m_eInitialLightState LIT
+   }
+  }
+  coords 7695.41 12.973 8110.584
+  angleY 131.087
+ }
+ {
+  components {
+   SCR_BaseInteractiveLightComponent "{587E9C1D47ACAF0D}" {
+    m_eInitialLightState LIT
+   }
+  }
+  coords 7690.37 13.766 8123.832
+  angleY 39.649
+ }
+}
+GenericEntity : "{2C303FA30DF3D73F}Prefabs/Props/Military/AmmoBoxes/US/EquipmentBoxWooden_Ammunition_01_US.et" {
+ coords 7700.776 14.058 8091.618
+ angleY 42.974
+ angleZ -1.379
+}
+GenericEntity : "{50A68300B537EDFA}Prefabs/Items/Food/ArmyCrackers_Soviet_01.et" {
+ coords 7694.601 14.83 8117.976
+}
+GenericEntity : "{5CF603986376EAA9}Prefabs/Items/Misc/IntelligenceFolder_E_01/IntelligenceFolder_E_01_base.et" {
+ coords 7694.316 14.83 8117.676
+}
+GenericEntity : "{7F59A8D992FBF5CA}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/CrateStack_01_base.et" {
+ coords 7716.12 12.969 8099.987
+}
+GenericEntity : "{7F9923063FBB628B}Prefabs/Props/Military/AmmoBoxes/AmmoBox_762x51_200rnd.et" {
+ coords 7699.761 12.969 8092.83
+}
+GenericEntity : "{865B9E01D2C0B2D7}Prefabs/Items/Equipment/Maps/PaperMap_01_full.et" {
+ coords 7705.685 15.292 8132.771
+ angleY -46.565
+}
+GenericEntity : "{A1697FD5012C105D}Prefabs/Props/Military/Antennas/Antenna_US_02/Antenna_US_02.et" {
+ coords 7695.996 17.197 8117.155
+ angleY 175.05
+}
+StaticModelEntity : "{A46718148CC2442E}Prefabs/Structures/Cultural/Statues/StatueSoldier_02/StatueSoldier_02.et" {
+ coords 7707.646 0.07 8130.823
+ angleY -49.071
+}
+GenericEntity : "{AFD43C42CFAF65E3}Prefabs/Props/Military/AmmoBoxes/AmmoBox_556x45_840rnd.et" {
+ coords 7700.235 12.969 8092.49
+}
+GenericEntity : "{B8BA01645C9D3476}Prefabs/Props/Military/AmmoBoxes/US/EquipmentBoxWooden_Explosives_01_US.et" {
+ coords 7700.57 13.5 8091.375
+ angleX -90
+ angleY 36.193
+ scale 2.5
+}
+GenericEntity : "{BC16FA49B7483E63}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/CrateStack_01_decals_01.et" {
+ coords 7714.225 12.969 8101.087
+ angleY 42.938
+}
+$grp GenericEntity : "{C98FCC6CA6C56069}Prefabs/Items/Medicine/AspirinBottle.et" {
+ {
+  coords 7694.671 14.83 8118.262
+ }
+ {
+  coords 7694.661 14.83 8118.109
+  angleY 43.935
+ }
+}
+GenericEntity : "{EB21D26B8D5A3232}Prefabs/Items/Food/MRE.et" {
+ coords 7694.436 14.83 8118.183
+}

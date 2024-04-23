@@ -1,0 +1,30 @@
+$grp SCR_DefendWaypoint : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+ Waypoint_Medic_Defend {
+  coords 7690.648 12.969 8107.604
+  CompletionRadius 2
+ }
+ Waypoint_Medic_Defend2 {
+  coords 7687.406 13.29 8104.048
+  CompletionRadius 2
+ }
+ Waypoin_Fireteam_Defend {
+  coords 7655.345 13.174 8054.285
+  CompletionRadius 4
+ }
+ Waypoin_Pilots_Defend {
+  coords 7722.636 13.672 8141.274
+  CompletionRadius 1.2
+ }
+ Waypoin_Sentryteam_Defend {
+  coords 7634.215 13.806 8057.206
+  CompletionRadius 3
+ }
+ Waypoin_Checkpointgunner_Defend {
+  coords 7620.592 14.031 8065.129
+  CompletionRadius 2.5
+ }
+ Waypoin_Pilots_Defend2 {
+  coords 7723.535 13.663 8142.417
+  CompletionRadius 1.2
+ }
+}

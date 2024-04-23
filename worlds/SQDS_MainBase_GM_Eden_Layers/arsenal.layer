@@ -1,0 +1,46 @@
+GenericEntity : "{3970981B94D3F882}Prefabs/Systems/Arsenal/ArsenalBoxes/US/ArsenalBox_USMC.et" {
+ coords 7712.477 12.969 8103.053
+ angleY -49.153
+}
+GenericEntity : "{46F8002D69E7910D}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Shelter_Arsenal_US_01_supply.et" {
+ coords 7711.608 12.969 8098.323
+ angleY -51.824
+ {
+  GenericEntity {
+   ID "612EC54D90130923"
+   components {
+    SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+     m_eArsenalSaveType NO_RESTRICTIONS
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{AAB41F3CE4965A76}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Shelter_Arsenal_US_02.et" {
+ coords 7708.329 12.969 8094.391
+ angleY -48.905
+ {
+  GenericEntity {
+   ID "5D371ACBFA947460"
+   components {
+    SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+     m_eArsenalSaveType NO_RESTRICTIONS
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{C6E02BDC5852D558}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Shelter_Arsenal_US_01.et" {
+ coords 7705.088 12.969 8090.653
+ angleY -48.964
+ {
+  GenericEntity {
+   ID "5D371ACBE97B9E1F"
+   components {
+    SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+     m_eArsenalSaveType NO_RESTRICTIONS
+    }
+   }
+  }
+ }
+}

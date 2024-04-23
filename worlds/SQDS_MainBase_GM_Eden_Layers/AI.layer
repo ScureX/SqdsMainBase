@@ -1,0 +1,95 @@
+SCR_AIGroup : "{3BF36BDEEB33AEC9}Prefabs/Groups/BLUFOR/Group_US_SentryTeam.et" {
+ coords 7633.018 15.547 8059.247
+ DangerEventRange 0
+ m_aStaticWaypoints {
+  "Waypoin_Sentryteam_Defend"
+ }
+}
+SCR_AIGroup : "{84E5BBAB25EA23E5}Prefabs/Groups/BLUFOR/Group_US_FireTeam.et" {
+ coords 7653.03 13.11 8056.384
+ angleY -15.742
+ DangerEventRange 0
+ m_aStaticWaypoints {
+  "Waypoin_Fireteam_Defend"
+ }
+}
+$grp SCR_AIGroup : "{D807C7047E818488}Prefabs/Groups/BLUFOR/Group_US_SniperTeam.et" {
+ Group_US_Pilots_1 {
+  coords 7722.347 14.119 8141.697
+  angleY -80.383
+  DangerEventRange 0
+  m_aUnitPrefabSlots {
+   "{15CD521098748195}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliCrew.et" ""
+  }
+  m_aStaticWaypoints {
+   "Waypoin_Pilots_Defend"
+  }
+ }
+ Group_US_Pilots_2 {
+  coords 7723.564 13.684 8142.316
+  angleY -80.383
+  DangerEventRange 0
+  m_aUnitPrefabSlots {
+   "{15CD521098748195}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_HeliCrew.et" ""
+  }
+  m_aStaticWaypoints {
+   "Waypoin_Pilots_Defend2"
+  }
+ }
+}
+SCR_AIGroup checkpointgunner : "{DDF3799FA1387848}Prefabs/Groups/BLUFOR/Group_US_RifleSquad.et" {
+ coords 7621.998 14.046 8065.134
+ DangerEventRange 0
+ m_aUnitPrefabSlots {
+  "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et"
+ }
+ m_aStaticWaypoints {
+  "Waypoin_Checkpointgunner_Defend"
+ }
+}
+$grp SCR_AIGroup : "{EF62027CC75A7459}Prefabs/Groups/BLUFOR/Group_US_MedicalSection.et" {
+ {
+  coords 7691.694 13.089 8108.753
+  angleY 107.286
+  DangerEventRange 0
+  m_aUnitPrefabSlots {
+   "{C9E4FEAF5AAC8D8C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et"
+  }
+  m_aStaticWaypoints {
+   "Waypoint_Medic_Defend"
+  }
+ }
+ {
+  coords 7689.683 13.424 8104.718
+  angleY 126.215
+  DangerEventRange 0
+  m_aUnitPrefabSlots {
+   "{C9E4FEAF5AAC8D8C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et"
+  }
+  m_aStaticWaypoints {
+   "Waypoint_Medic_Defend"
+  }
+ }
+ {
+  coords 7686.825 13.077 8104.285
+  angleY 126.215
+  DangerEventRange 0
+  m_aUnitPrefabSlots {
+   "{C9E4FEAF5AAC8D8C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et"
+  }
+  m_aStaticWaypoints {
+   "Waypoint_Medic_Defend2"
+  }
+ }
+ {
+  coords 7690.093 13.072 8108.366
+  angleY 126.215
+  DangerEventRange 0
+  m_aUnitPrefabSlots {
+   "{C9E4FEAF5AAC8D8C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et"
+  }
+  m_aStaticWaypoints {
+   "Waypoint_Medic_Defend2"
+  }
+ }
+}

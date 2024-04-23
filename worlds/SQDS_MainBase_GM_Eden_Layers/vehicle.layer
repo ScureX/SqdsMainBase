@@ -1,0 +1,20 @@
+Vehicle M997_maxi_ambulance1 : "{00C9BBE426F7D459}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance.et" {
+ coords 7720.07 12.969 8110.076
+ angleY -49.749
+}
+Vehicle M923A1_arsenal1 : "{1FF144F8A209239D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal.et" {
+ coords 7686.949 12.969 8072.565
+ angleY -51.856
+}
+Vehicle M923A1_command1 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command.et" {
+ coords 7689.927 12.969 8076.443
+ angleY -51.363
+}
+Vehicle M1025_armed_M2HB1 : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ coords 7684.112 12.969 8069.204
+ angleY -52.447
+}
+Vehicle M998_covered_long1 : "{9B1BF9644E0378D6}Prefabs/Vehicles/Wheeled/M998/M998_covered_long.et" {
+ coords 7693.416 12.969 8080.229
+ angleY -50.575
+}

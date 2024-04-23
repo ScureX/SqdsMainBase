@@ -1,0 +1,43 @@
+GenericEntity : "{2DD4D94957E1DC2B}Prefabs/Props/Furniture/Carpet_03_red.et" {
+ coords 7706.177 15.722 8132.158
+ angleY -46.003
+ scale 0.481
+}
+$grp GenericEntity : "{5DCDDE1CF7AD24DD}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Decorations/E_PalletPile_Stacked_01.et" {
+ {
+  coords 7707.389 13.719 8133.631
+  angleY -68.029
+ }
+ {
+  coords 7704.915 13.703 8130.841
+  angleY -39.28
+ }
+}
+GenericEntity : "{6E3320C3C37CAFE5}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_04.et" {
+ coords 7706.991 15.72 8133.114
+}
+GenericEntity : "{8BAF6C3ACF99388E}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_05.et" {
+ coords 7705.291 15.717 8131.176
+ angleY -100.82
+}
+GenericEntity : "{8DA685948F63062B}Prefabs/Props/Commercial/Posters/Leaflet_01.et" {
+ coords 7705.108 15.508 8131.938
+ angleY -46.967
+}
+GenericEntity : "{CC66836BF4E211F9}Prefabs/Props/Military/Camps/Duckboard_01.et" {
+ coords 7706.226 15.624 8132.236
+ angleY 43.359
+}
+GenericEntity : "{E1F2B17433A78905}Prefabs/Props/Commercial/Posters/Leaflet_02.et" {
+ coords 7706.418 15.512 8133.325
+ angleY -46.041
+}
+GenericEntity : "{E7FB58DA735DB7A0}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_06.et" {
+ coords 7705.313 15.719 8131.284
+ angleY 73.578
+}
+GenericEntity : "{FE47006C7C7869FE}Prefabs/Props/Civilian/LadderWooden_01.et" {
+ coords 7707.688 13.713 8135.089
+ angleX 26.816
+ angleY 20.711
+}

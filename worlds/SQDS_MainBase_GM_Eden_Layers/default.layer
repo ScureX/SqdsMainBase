@@ -1,0 +1,11 @@
+SCR_SpawnPoint : "{0CAE96554C7FEB3D}PrefabsEditable/SpawnPoints/E_SpawnPoint_US_USMC.et" {
+ coords 7700.875 13.562 8136.626
+}
+SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+ components {
+  SCR_MapDescriptorComponent "{54C659A97C47BDE2}" {
+   Scale 0
+  }
+ }
+ coords 7700.896 13.734 8136.929
+}

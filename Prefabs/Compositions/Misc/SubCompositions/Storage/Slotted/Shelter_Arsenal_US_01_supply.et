@@ -1,0 +1,71 @@
+GenericEntity : "{FBEF0DDE64A1B1A0}Prefabs/Compositions/Slotted/SubComposition.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  SCR_DestructionMultiPhaseComponent "{5D9B05DCAB2C9D93}" {
+   m_eMaterialSoundType BREAK_ROCK
+  }
+  SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+   m_bOrientChildrenToTerrain 0
+  }
+  Hierarchy "{612EB9DB5A3F59F9}" {
+  }
+ }
+ coords 1193.971 51.001 1342.022
+ {
+  $grp GenericEntity : "{0011A3CBD1B1212A}Prefabs/Props/Garbage/Military/Ammo/GarbageAmmunition_US_01.et" {
+   {
+    ID "612EB9DB5A3F59DA"
+    components {
+     Hierarchy "{612EB9DB5A3F598C}" {
+      Enabled 1
+     }
+    }
+    coords -0.78 0.1 2.644
+    angleY 31.831
+   }
+   {
+    ID "612EB9DB5A3F59DC"
+    components {
+     Hierarchy "{612EB9DB5A3F598E}" {
+      Enabled 1
+     }
+    }
+    coords -1.262 0.1 2.851
+    angleY -75.796
+   }
+  }
+  StaticModelEntity : "{8F91E1D01FB2C3EF}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/ShelterStorage_US_01_CompositionDestruction.et" {
+   ID "612EB9DB5A3F59E0"
+   coords 0 0 0
+  }
+  GenericEntity : "{A04DC55EB7C367F8}Prefabs/Props/Garbage/Military/Ammo/GarbageAmmunition_US_02.et" {
+   ID "612EB9DB5A3F59ED"
+   components {
+    Hierarchy "{612EB9DB5A3F598A}" {
+     Enabled 1
+    }
+   }
+   coords 1.047 0.099 2.842
+   angleY -33.562
+  }
+  GenericEntity : "{B26E1D02A5C06027}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Storage_Arsenal_US_01.et" {
+   ID "612EB9DB5A3F59E8"
+   coords -0.007 0.1 1.687
+  }
+  GenericEntity : "{CC66836BF4E211F9}Prefabs/Props/Military/Camps/Duckboard_01.et" {
+   ID "612EB9DB5A3F59FE"
+   components {
+    Hierarchy "{612EB9DB5A3F5988}" {
+     Enabled 1
+    }
+   }
+   coords 0.105 0.691 -2.988
+   angleY -90
+   angleZ -86.114
+  }
+  GenericEntity : "{FF27B5E7B51F45F0}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/ArsenalBox_US_NoAffiliation.et" {
+   ID "612EC54D90130923"
+   coords 0.082 0.081 3.075
+  }
+ }
+}

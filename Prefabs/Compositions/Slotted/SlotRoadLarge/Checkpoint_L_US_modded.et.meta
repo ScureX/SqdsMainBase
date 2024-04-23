@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3387F9376510DBDB}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_US_modded.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

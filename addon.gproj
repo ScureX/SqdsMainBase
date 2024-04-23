@@ -1,0 +1,8 @@
+GameProject {
+ ID "SqdsMainBase"
+ GUID "612D0056D5EE7710"
+ TITLE "SqdsMainBase"
+ Dependencies {
+  "595F2BF2F44836FB" "58D0FB3206B6F859"
+ }
+}
